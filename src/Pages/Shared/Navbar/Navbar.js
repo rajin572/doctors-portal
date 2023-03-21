@@ -41,6 +41,7 @@ const Navbar = () => {
                     {menuItems}
                 </ul>
             </div>
+
         </div>
     );
 };
